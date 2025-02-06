@@ -1,8 +1,8 @@
 import asyncio
 from telegram import Bot
 
-TOKEN = "8059510016:AAEYLx7rY04Fo6QvBwlQFNO4hOLllYLHuIk"
-CHANNEL_ID = "@ramibakourforex"  # استخدم المعرف الصحيح للقناة
+TOKEN = "8059510016:AAGex8esGI_d_Ch1XIZzso-B2FsuT1HCFvk"
+CHANNEL_ID = "@ramibakourtrader"  # استخدم المعرف الصحيح للقناة
 
 bot = Bot(token=TOKEN)
 
