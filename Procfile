@@ -1,1 +1,1 @@
-worker: python gold.py
+worker: python gold.py 
