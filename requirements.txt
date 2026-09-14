@@ -1,4 +1,2 @@
-python-telegram-bot
-schedule
-feedparser
+python-telegram-bot[job-queue]
 yfinance
